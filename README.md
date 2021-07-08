@@ -1,0 +1,2 @@
+# PyQtTraining
+Some training
